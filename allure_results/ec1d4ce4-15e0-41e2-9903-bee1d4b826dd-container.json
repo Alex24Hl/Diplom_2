@@ -1,0 +1,1 @@
+{"uuid": "dd94d82a-4367-4eeb-a2e3-7a8866b2059d", "children": ["02ac26eb-f1aa-4834-a3bf-d0cc5c5b734c", "bba5b1d3-3164-4758-be6a-d38fc21903bf"], "befores": [{"name": "Фикстура регистрации пользователя", "status": "passed", "start": 1754842935504, "stop": 1754842936519}], "start": 1754842935504, "stop": 1754842942801}

@@ -1,0 +1,1 @@
+{"uuid": "4c86e7a5-e6b9-4457-a80a-31dbafc86dec", "children": ["16df1e7a-53bc-4b4b-bd9a-c9e4ca266970"], "befores": [{"name": "Фикстура получения токена авторизации", "status": "passed", "start": 1754842967734, "stop": 1754842968589}], "start": 1754842967734, "stop": 1754842969185}
